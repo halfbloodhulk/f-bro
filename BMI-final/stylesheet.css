@@ -1,0 +1,106 @@
+p{
+	font-size: 18px;
+}
+p[class]{
+	font-weight: 800;
+}
+body{
+		margin: 0;
+}
+.navbar{
+	background-color: #66CCDD;
+	height: 55px;
+}
+
+.navlist{
+	float: left;
+}
+.navlist li{
+	display: inline-block;
+}
+
+.navlist li a{
+	color: #fff;
+	margin: 0 10px;
+	text-decoration: none;
+}
+.navlist li a:hover{
+	color: #009999;
+	text-decoration: underline;
+}
+.text-center{
+	text-align: center;
+}
+
+.welcome{
+	font-size: 26px
+}
+
+
+.basic-section{
+	padding: 50px;
+}
+
+.basic-section:nth-child(odd){
+	background-color: #66CDAA;
+}
+.form input{
+	padding: 7px;
+	border-radius: 10px;
+	border: 1px solid black;
+	margin: 0 10px 0 0;
+}
+.btn{
+	background-color: #66CDAA;
+	font-weight: 500;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+.text-special{
+	color: blue;
+}
+.footer{
+	background-color: #66CCDD;
+	height 60px;
+	padding: 10px 50px;
+	color: #fff;
+}
+.footer h3{
+	letter-spacing: 3px;
+	font-weight: 300;
+}
+.footer-links{
+	margin: 0
+	padding: 0
+	list-style-type: none;
+}
+.footer-links li a{
+	color:#fff;
+	text-decoration: none;
+}
+.footer-links li a:hover{
+	color: #009999;
+	text-decoration: underline;
+}
+.table{
+	border-callapse: 2px black;
+	border-spacing: 5px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
